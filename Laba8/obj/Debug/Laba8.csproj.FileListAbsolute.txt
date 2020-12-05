@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\1\source\repos\Laba8\bin\Debug\Laba8.exe
+C:\Users\1\source\repos\Laba8\bin\Debug\Laba8.pdb
+C:\Users\1\source\repos\Laba8\obj\Debug\Laba8.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Laba8\obj\Debug\Laba8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba8\obj\Debug\Laba8.exe
+C:\Users\1\source\repos\Laba8\obj\Debug\Laba8.pdb
