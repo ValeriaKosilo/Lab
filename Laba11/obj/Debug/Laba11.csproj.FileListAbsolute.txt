@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Laba11\bin\Debug\Laba11.exe.config
+C:\Users\1\source\repos\Laba11\bin\Debug\Laba11.exe
+C:\Users\1\source\repos\Laba11\bin\Debug\Laba11.pdb
+C:\Users\1\source\repos\Laba11\obj\Debug\Laba11.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Laba11\obj\Debug\Laba11.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba11\obj\Debug\Laba11.exe
+C:\Users\1\source\repos\Laba11\obj\Debug\Laba11.pdb

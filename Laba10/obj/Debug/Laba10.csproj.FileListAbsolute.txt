@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Laba10\bin\Debug\Laba10.exe.config
+C:\Users\1\source\repos\Laba10\bin\Debug\Laba10.exe
+C:\Users\1\source\repos\Laba10\bin\Debug\Laba10.pdb
+C:\Users\1\source\repos\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba10\obj\Debug\Laba10.exe
+C:\Users\1\source\repos\Laba10\obj\Debug\Laba10.pdb
