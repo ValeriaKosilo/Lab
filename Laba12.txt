@@ -1,0 +1,100 @@
+Cодержимое класса:
+get_numbers
+set_numbers
+Message
+ToString
+Str
+get_price
+set_price
+get_name
+set_name
+get_weight
+set_weight
+Equals
+GetHashCode
+GetType
+.ctor
+.ctor
+numbers
+price
+name
+weight
+
+Поля класса: 
+
+Свойства класса: 
+numbers
+price
+name
+weight
+
+Интерфейсы класса: 
+Products
+
+Методы класса: 
+get_numbers
+set_numbers
+Message
+ToString
+Str
+get_price
+set_price
+get_name
+set_name
+get_weight
+set_weight
+Equals
+GetHashCode
+GetType
+
+Методы с определенным типом: 
+str
+value
+
+Cодержимое класса:
+get_pastryname
+set_pastryname
+get_price
+set_price
+get_weight
+set_weight
+Show
+ToString
+Str
+Equals
+GetHashCode
+GetType
+.ctor
+.ctor
+pastryname
+price
+weight
+
+Поля класса: 
+
+Свойства класса: 
+pastryname
+price
+weight
+
+Интерфейсы класса: 
+ISeeAll
+
+Методы класса: 
+get_pastryname
+set_pastryname
+get_price
+set_price
+get_weight
+set_weight
+Show
+ToString
+Str
+Equals
+GetHashCode
+GetType
+
+Методы с определенным типом: 
+value
+str
+
