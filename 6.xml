@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <flowers rose="red">
+    <lenght>30</lenght>
+    <number>15</number>
+  </flowers>
+  <flowers rose="white">
+    <lenght>45</lenght>
+    <number>21</number>
+  </flowers>
+</root>

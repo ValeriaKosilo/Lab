@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+    <NAME1>Костенко </NAME1>
+    <NAME2>Влад </NAME2>
+    <BALL>8.6</BALL>
+  </student>
+	<student>
+    <NAME1>Голомбовская </NAME1>
+    <NAME2>Алина </NAME2>
+    <BALL>5.3</BALL>
+	</student>
+</students>

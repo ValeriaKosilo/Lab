@@ -1,0 +1,9 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Product id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Laba14/Laba14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<_x003C_productname_x003E_k__BackingField id="ref-3">Flowers</_x003C_productname_x003E_k__BackingField>
+<Goods_x002B__x003C_price_x003E_k__BackingField>15.55</Goods_x002B__x003C_price_x003E_k__BackingField>
+<Goods_x002B__x003C_date_x003E_k__BackingField id="ref-4">16.12.2020</Goods_x002B__x003C_date_x003E_k__BackingField>
+</a1:Product>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

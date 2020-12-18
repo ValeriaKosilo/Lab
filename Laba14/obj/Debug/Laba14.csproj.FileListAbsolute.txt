@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\Laba14\bin\Debug\Laba14.exe.config
+C:\Users\1\source\repos\Laba14\bin\Debug\Laba14.exe
+C:\Users\1\source\repos\Laba14\bin\Debug\Laba14.pdb
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Text.Json.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Memory.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Buffers.dll
+C:\Users\1\source\repos\Laba14\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.exe.config
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.csproj.CopyComplete
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.exe
+C:\Users\1\source\repos\Laba14\obj\Debug\Laba14.pdb
